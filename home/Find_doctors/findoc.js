@@ -50,7 +50,7 @@ const baselineDoctors = [
         specialization: "Dermatology",
         experience: 9,
         hospital: { name: "KIMS Hospitals", location: "Secunderabad, Hyderabad" },
-        profileImageURL: "https://i.pinimg.com/736x/c5/a3/90/c5a3904b38eb241dd03dd30889599dc4.jpg",
+        profileImageURL: "https://images.unsplash.com/photo-1537368910025-700350fe46c7?q=80&w=400",
         phone: "+91 9876543212"
     },
     {
